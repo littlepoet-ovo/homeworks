@@ -1,3 +1,4 @@
+#分解质因数
 #include<bits/stdc++.h>
 using namespace std;
 void divide(int n){
